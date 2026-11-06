@@ -1,0 +1,5 @@
+slack_url:
+slack_msg: "<@user>"
+servers:
+  - https://www.imgidea.com
+  - https://www.chrisgr.com
