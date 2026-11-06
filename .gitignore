@@ -1,0 +1,3 @@
+/target/
+rustmon.log
+rustmon_metrics.log
